@@ -1,1 +1,0 @@
-// cout << integer[i]<<endl;
